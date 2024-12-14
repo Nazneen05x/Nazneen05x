@@ -7,7 +7,8 @@
 
 Bieb in Bloei live sites:
 
-https://over-pagina.netlify.app/over
-https://menu-biebinbloei.netlify.app/
-
+<ul>
+<li>https://over-pagina.netlify.app/over</li>
+<li>https://menu-biebinbloei.netlify.app/</li>
+</ul>
 
