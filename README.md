@@ -2,8 +2,6 @@
 
  Frontend Design & Development student 👩🏾‍💻
 
-✨Check out my pinned projects!✨
-
 
 Bieb in Bloei live sites:
 
@@ -11,4 +9,6 @@ Bieb in Bloei live sites:
 <li>https://over-pagina.netlify.app/over</li>
 <li>https://menu-biebinbloei.netlify.app/</li>
 </ul>
+
+✨Check out my pinned projects!✨
 
